@@ -9,7 +9,7 @@ A UI/UX design project focused on creating a premium, modern, and engaging rewar
 
 ## 🔗 Figma Design & Interactive Prototype
 
-**[View the Figma Prototype]([https://www.figma.com/proto/ozZmTU5iiidzOcHj8lcF95](https://www.figma.com/proto/ozZmTU5iiidzOcHj8lcF95/Untitled?node-id=5-5&p=f&t=W72KU2pVpJUVIGFA-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1))**
+**[View the Figma Prototype](https://www.figma.com/proto/ozZmTU5iiidzOcHj8lcF95/Untitled?node-id=5-5&p=f&t=W72KU2pVpJUVIGFA-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)**
 
 ## 📌 Project Overview
 
