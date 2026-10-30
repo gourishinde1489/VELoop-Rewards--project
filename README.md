@@ -4,10 +4,6 @@
 **Category:** UI/UX Design  
 **Tool:** Figma  
 
-# 🎨 VELOOP Rewards — Mine & Earn
-
-A UI/UX design project focused on creating a premium, modern, and engaging rewards experience for the VELOOP Rewards platform.
-
 ## 🔗 Latest Figma Design & Interactive Prototype
 
 **[View Updated Figma Design](https://www.figma.com/proto/ozZmTU5iiidzOcHj8lcF95/Untitled?node-id=59-4&p=f&t=Ce7DhMRQBP4I5Kvc-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=59%3A4)**
